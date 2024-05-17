@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Mobile</string>
+    <string name="title_name1">Бутик Caralano</string>
+    <string name="todo">TODO</string>
+    <string name="input_field">Поле для ввода</string>
+    <string name="listview">Bags Vintage</string>
+    <string name="recyclerview">Bags New </string>
+    <string name="notification">Notification</string>
+    <string name="returnList">Возврат на стартовый экран</string>
+    <string name="baguette">Vintage bag</string>
+    <string name="croissant">New bag</string>
+    <string name="caralano">Бутик Caralano</string>
+</resources>
